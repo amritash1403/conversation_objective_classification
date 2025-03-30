@@ -93,8 +93,3 @@ Prediction (predict.py & final_pred.py): Uses the trained model to classify conv
 🔹 Expand the dataset for better generalization.
 🔹 Deploy as a web API for real-time classification.
 
-# 🤝 Contributors
-
-👤 Harsh Kumar
-📌 CMR Institute of Technology | AIML Department
-
